@@ -11,3 +11,13 @@ main {
     margin: auto;
     width: 800px;
 }
+
+.img-div {
+    background-color: aqua;
+    margin: auto;
+}
+
+img {
+    max-width: 600px;
+    height:auto;
+}
