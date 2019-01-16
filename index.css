@@ -1,0 +1,13 @@
+body {
+    box-sizing: border-box;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    width: 800px;
+}
